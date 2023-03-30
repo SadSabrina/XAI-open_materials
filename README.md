@@ -1,48 +1,15 @@
 # XAI
 
-**Library and method table**
+This repository is based on the my report "Analysis of the feasibility of artificial intelligence algorithms", LIV International Scientific Conference on Control Processes and Stability (CPS'23) Saint-Petersburg, Russia, April 3-7, 2023. 
 
-| Library | LIME | pdp plots | shap values | permutation importance | Sensitivity Analysis | Counterfactual Explanations | integrated gradients | 	Layer-wise Relevance Propagation | Scalable Bayesian Rule Lists | other methods |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| eli5 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0| 0 | 0 |
-| pdpbox | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0| 0 | 0 |
-| shap | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0| 0 | 0 |
-| deeplift | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0| 0 | 1 |
-| SALib | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0| 0 | 0 |
-| LIME | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0| 0 | 0 |
-| interpretML | 1 | 1 | 1 | 0 | 1 | 0 | 0 | 0| 0 | 0 |
-| dice-ml | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0| 0 | 0 |
-| interpret-text | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0| 0 | 0 |
-| treeinterpreter | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0| 0 | 0 |
-| graphviz | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0| 0 | 1 |
-| captum | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 1| 0 | 1 |
-| skater | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 1| 0 | 0 |
-| transformers-interpret | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
-| bertviz | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| alibi | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 0| 0 | 0 |
+It contains tables with libraries offering interpretation of models are available via links:
 
-If everything is 0 in the line, it means that no explicit name of the method used has been found
+- in the case of training on different data
+- in the case of training on specific frameworks
+- in case of searching for a specific method
 
-**Library and data table**
+[1] **Library and method table** [link1](https://docs.google.com/spreadsheets/d/1Yd4lPQrcFzoS6Z0wIL4uUeN80w7OisB3X3YbdnjhEaw/edit?usp=sharing) \
+[2] **Library and data table** [link2](https://docs.google.com/spreadsheets/d/13SjT5Jy3uFhNG-kM3CW2xZj-CyKiYXerDFRBUSFR9vE/edit?usp=sharing) \
+[3] **Library and framework table** [link3](https://docs.google.com/spreadsheets/d/1IuK6bjmyCGYuiRO5nZSmF5NVOqP26plXlC7L-k0GpNM/edit?usp=sharing)
 
-
-| Библиотека | Тексты	| Изображения |	Звук	| Табличные данные	| Графовые данные	| Генетические данные |
-| --- | --- | --- | --- | --- | --- | --- |
-| eli5	| 1	| 1	| 0	| 1	| 1	| 0 |
-| pdpbox	| 0	| 0	| 0	| 0	| 0	| 0 |
-| shap	| 1	| 1	| 0	| 1	| 0	| 0 |
-| deeplift	| 1	| 1	| 0	| 0	| 0	| 1 |
-| LIME	| 1	| 1	| 0	| 1	| 0	| 0 |
-| SALib |	0	|	0	| 0| 1| 0 | 0 |
-| librosa	| 0	| 0	| 1	| 0	| 0	| 0 |
-| interpretML	| 1	| 1	| 1	| 1	| 0	| 0 |
-| dice-ml 	| 0	| 0	| 0	| 1	| 0	| 0 |
-| interpret-text	| 1	| 0	| 0	| 0	| 0	| 0 |
-| treeinterpreter	| 0	| 0	| 0	| 1	| 0	| 0 |
-| captum | 1 | 1 | 0 | 1 | 0 | 0 |
-| skater	| 1	| 1	| 0	| 1	| 0	| 0 |
-| transformers-interpret | 1	| 1	| 0	| 0	| 0	| 0 |
-| bertviz	| 1	| 0	| 0	| 0	| 0	| 0 |
-| GNNExplainer |0	| 0	| 0	| 0	| 1	| 0 |
-| alibi	| 1	| 1	| 0	| 1	| 0	| 0 |
-| PGExplainer	| 0	| 0	| 0	| 0	| 1	| 0 | 
+If you have found an error or analyzed a new library, please write to me in telegram @sabrina_sadiekh (you can use Rus or English or German) and I will update the information.
