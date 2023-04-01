@@ -1,8 +1,8 @@
 # XAI
 
-This repository is based on the my report "Analysis of the feasibility of artificial intelligence algorithms", LIV International Scientific Conference on Control Processes and Stability (CPS'23) Saint-Petersburg, Russia, April 3-7, 2023. 
+This repository is based on my report "Analysis of the feasibility of artificial intelligence algorithms", LIV International Scientific Conference on Control Processes and Stability (CPS'23) Saint-Petersburg, Russia, April 3-7, 2023. 
 
-It contains tables with libraries offering interpretation of models are available via links:
+It contains tables with libraries that offer the interpretation of models. Librares are available via the following links:
 
 - in the case of training on different data
 - in the case of training on specific frameworks
@@ -12,4 +12,4 @@ It contains tables with libraries offering interpretation of models are availabl
 [2] **Library and data table** [link2](https://docs.google.com/spreadsheets/d/13SjT5Jy3uFhNG-kM3CW2xZj-CyKiYXerDFRBUSFR9vE/edit?usp=sharing) \
 [3] **Library and framework table** [link3](https://docs.google.com/spreadsheets/d/1IuK6bjmyCGYuiRO5nZSmF5NVOqP26plXlC7L-k0GpNM/edit?usp=sharing)
 
-If you have found an error or analyzed a new library, please write to me in telegram @sabrina_sadiekh (you can use Rus or English or German) and I will update the information.
+If you find an error or analyzed a new library, please write to me in telegram @sabrina_sadiekh (you can use Russian, English, German) and i will update the information.
