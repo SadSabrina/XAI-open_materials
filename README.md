@@ -1,5 +1,4 @@
 # XAI
-
 This repository is based on my report "Analysis of the feasibility of artificial intelligence algorithms", LIV International Scientific Conference on Control Processes and Stability (CPS'23) Saint-Petersburg, Russia, April 3-7, 2023. \
 [Collection](https://dspace.spbu.ru/handle/11701/41728) of articles of the conference.
 
