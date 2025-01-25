@@ -1,15 +1,36 @@
-# XAI
-This repository is based on my report "Analysis of the feasibility of artificial intelligence algorithms", LIV International Scientific Conference on Control Processes and Stability (CPS'23) Saint-Petersburg, Russia, April 3-7, 2023. \
-[Collection](https://dspace.spbu.ru/handle/11701/41728) of articles of the conference.
+# 🌟 Explainable AI (XAI) Tutorials Repository  
 
-It contains tables with libraries that offer the interpretation of models. Librares are available via the following links:
+## 📖 **Goal**  
+Hello, friends! Welcome to a repository dedicated to learning explainable artificial intelligence (XAI) methods.
 
-- in the case of training on different data
-- in the case of training on specific frameworks
-- in case of searching for a specific method
+This repository was created to make XAI methods accessible, understandable, and easy to use. Here, you will find practical guides to help you master key tools and approaches for applying XAI to large models. Each tutorial focuses on techniques for analyzing models to improve transparency in data processing and build trust in their decisions.
 
-[1] **Library and method table** [link1](https://docs.google.com/spreadsheets/d/1Yd4lPQrcFzoS6Z0wIL4uUeN80w7OisB3X3YbdnjhEaw/edit?usp=sharing) \
-[2] **Library and data table** [link2](https://docs.google.com/spreadsheets/d/13SjT5Jy3uFhNG-kM3CW2xZj-CyKiYXerDFRBUSFR9vE/edit?usp=sharing) \
-[3] **Library and framework table** [link3](https://docs.google.com/spreadsheets/d/1IuK6bjmyCGYuiRO5nZSmF5NVOqP26plXlC7L-k0GpNM/edit?usp=sharing)
+## **What’s Inside?**  
+This repository offers tutorials in both Russian and English, designed to help you learn essential XAI tools.  
 
-If you find an error or analyzed a new library, please write to me in telegram @sabrina_sadiekh (you can use Russian, English, German) and i will update the information.
+### Available Tutorials:  
+- **LIME** [`LIME`] (Local Interpretable Model-Agnostic Explanations): explains local model behavior.  
+- **YOLO** (You Only Look Once) [`yolo_nas_cam_tutorial`]: visualizes and interprets features within object detection models.  
+
+## 🚀 **How to Start**  
+
+1. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/your-username/xai-tutorials.git
+   cd xai-tutorials
+   ```  
+2. **Explore the Tutorials**: Check out the materials available in the following folders.
+
+3. **Run the Examples**: Use Jupyter Notebook or your favorite IDE to test the examples and understand how they work.  
+
+## 🤝 **How to Contribute**  
+
+1. **Create an Issue**: If you find a bug or want to suggest a new topic.  
+2. **Contribute**: Submit a PR with your examples, improvements, or translations.  
+3. **Spread the Word**: Share the repository link to help others learn about the importance of XAI.  
+
+## 💡 **Contact & Feedback**  
+If you have questions, suggestions, or want to discuss XAI, feel free to reach out:  
+📧 Email: sad.sabrina.d@yandex.ru  
+🔗 LinkedIn: [Sabrina Sadiekh](https://www.linkedin.com/in/sabrina-sadiekh-35181a286/)  
+📢 Telegram Channel (Russian): [Just Data Blog](https://t.me/jdata_blog)  
