@@ -17,7 +17,7 @@ This repository offers tutorials in both Russian and English, designed to help y
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/SadSabrina/XAI-open_materials.git
-   cd xai-tutorials
+   cd XAI-open_materials
    ```  
 2. **Explore the Tutorials**: Check out the materials available in the following folders.
 
