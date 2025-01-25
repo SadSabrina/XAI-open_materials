@@ -1,6 +1,6 @@
 # 🌟 Explainable AI (XAI) Tutorials Repository  
 
-## 📖 **Goal**  
+## **Goal**  
 Hello, friends! Welcome to a repository dedicated to learning explainable artificial intelligence (XAI) methods.
 
 This repository was created to make XAI methods accessible, understandable, and easy to use. Here, you will find practical guides to help you master key tools and approaches for applying XAI to large models. Each tutorial focuses on techniques for analyzing models to improve transparency in data processing and build trust in their decisions.
@@ -12,7 +12,7 @@ This repository offers tutorials in both Russian and English, designed to help y
 - **LIME** [`LIME`] (Local Interpretable Model-Agnostic Explanations): explains local model behavior.  
 - **YOLO** (You Only Look Once) [`yolo_nas_cam_tutorial`]: visualizes and interprets features within object detection models.  
 
-## 🚀 **How to Start**  
+## **How to Start**  
 
 1. **Clone the Repository**:  
    ```bash
@@ -23,7 +23,7 @@ This repository offers tutorials in both Russian and English, designed to help y
 
 3. **Run the Examples**: Use Jupyter Notebook or your favorite IDE to test the examples and understand how they work.  
 
-## 🤝 **How to Contribute**  
+## **How to Contribute**  
 
 1. **Create an Issue**: If you find a bug or want to suggest a new topic.  
 2. **Contribute**: Submit a PR with your examples, improvements, or translations.  
