@@ -11,7 +11,7 @@ This repository offers tutorials in both Russian and English, designed to help y
 ### Available Tutorials:  
 - **LIME** [`LIME`] (Local Interpretable Model-Agnostic Explanations): explains local model behavior.  
 - **YOLO** (You Only Look Once) [`yolo_nas_cam_tutorial`]: visualizes and interprets features within object detection models.  
-- **GPT-2 probing** ['gpt2_probing']: tutorial is about probing, a simple but powerful method for learning the inner workings of LLMs (Large Language Models) with GPT2 model.
+- **GPT-2 probing** [`gpt2_probing`]: tutorial is about probing, a simple but powerful method for learning the inner workings of LLMs (Large Language Models) with GPT2 model.
 
 ## **How to Start**  
 
