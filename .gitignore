@@ -1,5 +1,5 @@
-.venv
 .gitignore
+.venv
 /gpt2_probing/results
 .DS_Store
 /gpt2_probing/people_dataset_prepared_most_popular.csv.zip
