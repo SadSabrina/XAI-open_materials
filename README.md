@@ -13,6 +13,7 @@ This repository offers tutorials in both Russian and English, designed to help y
 - **YOLO** (You Only Look Once) [`yolo_nas_cam_tutorial`]: visualizes and interprets features within object detection models.  
 - **GPT-2 probing** [`gpt2_probing`]: tutorial is about probing, a simple but powerful method for learning the inner workings of LLMs (Large Language Models) with GPT2 model.
 - **CAM: [`CAM_yt`]**: tutorial about Class Activation Maps with YouTube [video](https://www.youtube.com/watch?v=6cOWGzv_ITQ)
+- **Logit Lens Vit [`Logit Lens ViT`]:** [Logit Lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens) tutorial for vision model.
 
 ## **How to Start**  
 
