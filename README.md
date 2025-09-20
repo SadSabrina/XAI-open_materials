@@ -1,14 +1,17 @@
 # 🌟 Explainable AI (XAI) Tutorials Repository  
 
 ## **Goal**  
+
 Hello, friends! Welcome to a repository dedicated to learning explainable artificial intelligence (XAI) methods.
 
 This repository was created to make XAI methods accessible, understandable, and easy to use. Here, you will find practical guides to help you master key tools and approaches for applying XAI to large models. Each tutorial focuses on techniques for analyzing models to improve transparency in data processing and build trust in their decisions.
 
 ## **What’s Inside?**  
+
 This repository offers tutorials in both Russian and English, designed to help you learn essential XAI tools.  
 
-### Available Tutorials:  
+### Available Tutorials: 
+
 - **LIME** [`LIME`] (Local Interpretable Model-Agnostic Explanations): explains local model behavior.  
 - **YOLO** (You Only Look Once) [`yolo_nas_cam_tutorial`]: visualizes and interprets features within object detection models.  
 - **GPT-2 probing** [`gpt2_probing`]: tutorial is about probing, a simple but powerful method for learning the inner workings of LLMs (Large Language Models) with GPT2 model.
