@@ -33,7 +33,8 @@ This repository offers tutorials in both Russian and English, designed to help y
 2. **Contribute**: Submit a PR with your examples, improvements, or translations.  
 3. **Spread the Word**: Share the repository link to help others learn about the importance of XAI.  
 
-## 💡 **Contact & Feedback**  
+## 💡 **Contact & Feedback** 
+
 If you have questions, suggestions, or want to discuss XAI, feel free to reach out:  
 📧 Email: sad.sabrina.d@yandex.ru  
 🔗 LinkedIn: [Sabrina Sadiekh](https://www.linkedin.com/in/sabrina-sadiekh-35181a286/)  
