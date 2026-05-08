@@ -101,4 +101,4 @@ The project explores:
 - failure modes,
 - skepticism in XAI systems.
 
-See the analysis in `agent.ipynb`.
+See the analysis in `agent_paper.md`.
