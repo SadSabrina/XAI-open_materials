@@ -1,6 +1,20 @@
 .gitignore
 .venv
-/gpt2_probing/results
+.claude
 .DS_Store
+geometrical_structures/__pycache__
+
+#results
+/gpt2_probing/results
+steering/yes_no_bench_df.csv
 /gpt2_probing/people_dataset_prepared_most_popular.csv.zip
 /gpt2_probing/people_dataset_prepared_most_popular.csv
+
+geometrical_structures/00_1_whitney_manifolds_SAE.ipynb
+
+naive_agent_and_xai/agent_paper.ipynb
+steering/benchmark_outputs
+
+# to do plan 
+steering/frameworks_benchmarking.ipynb
+geometrical_structures/00_2_curvature_hierarchies.ipynb
